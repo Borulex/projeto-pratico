@@ -16,3 +16,9 @@ git remote add origin https://github.com/Borulex/projeto-pratico.git
 
 git init
 git branch -M main
+
+git push -f origin main (ignora o erro e manda pra main na nuvem)
+
+git checkout -b modificacao (cria, vai pra uma branch e valida de tudo está salvo)
+
+modificação feita pelo estágiario na branch modificacao
